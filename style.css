@@ -1,0 +1,74 @@
+*{
+     font-family: 'Handlee', cursive;
+     margin: 0;
+}
+
+
+body{
+    background-color: rgb(208, 206, 206);
+    
+}
+
+.navbar{
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+}
+
+.container1{
+    /* border: 1px solid red; */
+    margin-top: 0;
+    background-color: white ;
+}
+.container2{
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+}
+
+.container3{
+    /* border: 1px solid red; */
+    background-color: white;
+    border-radius: 3px;
+}
+
+.top{
+    /* border: 1px solid blue; */
+    display: flex;
+    width: 500px;
+    height: 50px;
+    justify-content: space-between;
+    background-color: white;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+}
+
+img{
+    /* border: 1px solid blue; */
+    height: 400px;
+    width: 500px;
+    
+}
+
+.description{
+    /* border: 1px solid blue; */
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    max-width: 500px;
+    background-color: white;
+   padding-bottom: 10px;
+    
+}
+p{
+    padding-right: 10px;
+    padding-left: 20px;
+}
+h3{
+    padding-left: 10px;
+    margin-top: 15px;
+}
+
+.numero{
+    color: rgba(0, 0, 0, 0.389);
+}
+
